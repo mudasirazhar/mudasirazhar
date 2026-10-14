@@ -1,16 +1,14 @@
+ <div align="center">
 
-<div align="center">
+# Mudasir Azhar
 
-# MUDASIR AZHAR
+### Full-Stack Web Developer · WordPress · SEO · Vibe Coder
 
-### Web Designer | WordPress & Elementor Developer
+**Turning ideas into modern digital experiences.**
 
-I build modern, responsive websites that combine clean design,
-strong user experience, and practical business goals.
+I build websites, explore AI-assisted development, and continuously improve my skills in web technologies.
 
-[🌐 View My Projects](#-featured-projects) ·
-[💼 LinkedIn](YOUR-LINKEDIN-URL) ·
-[✉️ Contact Me](mailto:YOUR-EMAIL@example.com)
+[🌐 Portfolio](https://mudasirazhar.com/) · [💼 LinkedIn](https://www.linkedin.com/in/mudasir-azhar) · [📸 Instagram](https://www.instagram.com/i___mudasir) · [📘 Facebook](https://www.facebook.com/mudasir.wpexpert)
 
 </div>
 
@@ -18,90 +16,119 @@ strong user experience, and practical business goals.
 
 ## 👨‍💻 About Me
 
-I'm a web designer and WordPress developer passionate about
-building professional websites for businesses, brands, and
-educational platforms.
+Hey! I'm Mudasir Azhar, a web developer and SEO enthusiast passionate about creating modern websites and exploring new ways to build for the web.
 
-- 🎨 Modern website and landing page design
-- 🧩 WordPress & Elementor development
-- 🔍 SEO fundamentals and website structure
-- 🤖 AI-assisted design and development workflows
-- 🌱 Continuously improving my coding skills
-- 🤝 Open to freelance projects and job opportunities
+- 🌐 Building websites with WordPress and Elementor
+- 🎨 Focused on responsive design and user experience
+- 🔎 Interested in SEO and website optimization
+- ⚡ Exploring vibe coding and AI-assisted development
+- ⚛️ Working with React and improving my front-end skills
+- 🐍 Currently learning Python
+- 🚀 Learning by building real-world projects
+- 🤝 Open to freelance projects, collaborations, and job opportunities
+
+My goal is to combine creativity, problem-solving, and technology to build useful digital experiences.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,js,react,python,vscode,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Core Skills**
+- WordPress & Elementor
+- Website Design & Development
+- HTML, CSS & JavaScript
+- React — developing my skills
+- Python — currently learning
+- SEO fundamentals
+- AI-assisted development & vibe coding
+- VS Code, Git & GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01 — Formulation Books
+### 01. Formulation Books
+
 **Digital Products · E-commerce**
 
-An online store showcasing formulation eBooks across
-different product and manufacturing categories.
+An online platform for showcasing formulation-related books and digital products.
 
 🔗 [Visit Website](https://formulationbooks.com/)
 
-### 02 — Finzoic Bookkeeping
+### 02. Finzoic Bookkeeping
+
 **Business Website · Professional Services**
 
-A website project for a bookkeeping business, focused on
-presenting its services and professional online presence.
+A professional online presence for a bookkeeping business, with a focus on clear service presentation and user experience.
 
 🔗 [Visit Website](https://finzoicbookkeeping.com/)
 
-### 03 — Anayat Academy
+### 03. Anayat Academy
+
 **Education · Quran Academy**
 
-An educational website project for a Quran academy,
-designed to present its learning services online.
+An educational website project created for a Quran academy to present its learning services online.
 
 🔗 [Visit Website](https://anayat-accadmy.vercel.app/)
 
----
+### 🌐 Explore My Portfolio
 
-## 🛠️ Skills & Tools
+Want to see more of my work?
 
-**Website Development**
-- WordPress
-- Elementor
-- HTML & CSS
-- JavaScript — improving my skills
-
-**Design & Optimization**
-- Responsive Web Design
-- UI/UX Fundamentals
-- On-Page SEO
-
-**Workflow**
-- Git & GitHub
-- AI-Assisted Development Tools
+**[Visit mudasirazhar.com →](https://mudasirazhar.com/)**
 
 ---
 
-## 📈 My Development Journey
-
-I believe in learning by building real projects, improving
-my design process, and exploring better ways to solve
-problems through technology.
-
-My goal is to create websites that look professional,
-work smoothly, and help businesses communicate clearly.
-
----
-
-## 🤝 Let's Work Together
-
-Have a website project or collaboration idea?
-
-I'm open to opportunities where I can contribute my
-website design skills and continue growing as a developer.
-
-- Portfolio: YOUR-PORTFOLIO-URL
-- LinkedIn: YOUR-LINKEDIN-URL
-- Email: YOUR-EMAIL@example.com
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Design thoughtfully. Build creatively. Keep improving.**
+<img src="https://github-readme-stats.vercel.app/api?username=mudasirazhar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mudasir's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirazhar&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mudasirazhar&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudasirazhar&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to exciting projects, freelance opportunities, and collaborations.
+
+- 🌐 **Portfolio:** [mudasirazhar.com](https://mudasirazhar.com/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mudasir-azhar)
+- 📸 **Instagram:** [@i___mudasir](https://www.instagram.com/i___mudasir)
+- 📘 **Facebook:** [mudasir.wpexpert](https://www.facebook.com/mudasir.wpexpert)
+- ✉️ **Email:** [mudasirazhar40@gmail.com](mailto:mudasirazhar40@gmail.com)
+
+<div align="center">
+
+**Build. Learn. Experiment. Repeat.** 🚀
 
 </div>
